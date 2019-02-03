@@ -9,7 +9,7 @@ output:
     css: [default, "custom.css", "custom-fonts.css"]
     seal: false
     nature:
-      highlightStyle: tomorrow-night-eighties
+      highlightStyle: solarized-light
       highlightLanguage: r
       highlightLines: true
       countIncrementalSlides: false
